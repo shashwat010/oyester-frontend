@@ -72,6 +72,12 @@ const Signup = () => {
                     Submit
                 </button>
             </form>
+            <div>
+                <div>use /login for logging in</div>
+                <div>use /addnote for adding note</div>
+                <div>use /tasks for viewing all tasks</div>
+                <div>Login with credentials Email: admin@gmail.com Password: admin</div>
+            </div>
         </div>
     );
 };
